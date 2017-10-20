@@ -253,7 +253,8 @@ out_clip = clip.fl_image(process_image)
 
 ------
 
-    [Video download](https://github.com/ArenaSource/sdcnd-p5/raw/master/output_video/project_video.mp4)
+
+[Video download](https://github.com/ArenaSource/sdcnd-p5/raw/master/output_video/project_video.mp4)
 
 
 # Discussion
